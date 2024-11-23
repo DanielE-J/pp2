@@ -39,5 +39,6 @@ body {
     border-radius: 10px;
     padding: 20px; 
     text-align: center;
-    font-size: 11px;
+    font-size: 20px;
+    height: 300px;
 }
