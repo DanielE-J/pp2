@@ -28,7 +28,10 @@ body {
     padding: 10px;
     font-size: 30px;
 }
-
+/* list styling */
+li {
+    list-style-type: none;
+}
 #quiz-instructions {
     margin-top: 10px;
     margin-left: auto;
