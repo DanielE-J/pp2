@@ -54,3 +54,21 @@ li {
     margin-bottom: 5px;
 }
 
+/* Quiz app styling */
+
+.app {
+    background: rgba(236, 213, 111, 0.5);
+    width: 90%;
+    max-width: 700px;
+    margin: 100px auto 0;
+    border-radius: 5px;
+}
+
+/* app header styling */
+.app h1 {
+    font-size: 25px;
+    color: #001e4d;
+    font-weight: 600;
+    border-bottom: 1px solid #333;
+    padding-bottom: 30px;
+}
